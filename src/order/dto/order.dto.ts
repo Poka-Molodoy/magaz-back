@@ -1,3 +1,5 @@
+/* eslint-disable prettier/prettier */
+// eslint-disable-next-line prettier/prettier
 import { EnumOrderStatus } from '@prisma/client'
 import { Type } from 'class-transformer'
 import {
